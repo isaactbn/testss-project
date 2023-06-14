@@ -1,5 +1,7 @@
 # testss-project
 
+USE NVM v14.20.0
+
 ## Build Setup
 
 ```bash
